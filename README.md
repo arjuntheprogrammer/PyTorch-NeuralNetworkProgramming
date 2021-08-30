@@ -1,6 +1,7 @@
 # Neural Network Programming - Deep Learning with PyTorch
 
 YouTube Playlist: <https://youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG>
+
 BLOG REFERENCE: <https://deeplizard.com/learn/video/v5cngxo4mIg>
 
 ---
